@@ -1,0 +1,15 @@
+1. Wit begint en doet de eerste zet.
+2. Een schijf wordt één vakje schuin vooruit geschoven.
+3. Een schijf kan vooruit en achteruit slaan.
+4. Een schijf die aan de overkant van het dambord komt, wordt een dam. Let op: een schijf die tijdens het slaan de overkant van het dambord passeert maar weer terug moet om nog meer schijven te slaan, blijft een schijf.
+5. Een dam wordt één of meer vakjes schuin vooruit of schuin achteruit geschoven.
+6. Een dam kan vooruit en achteruit slaan. Je hoeft de dam na de slag niet vlak achter de laatste geslagen schijf te zetten.
+7. Slaan is verplicht.
+8. Meerslag gaat voor.
+9. Als je met een dam en met een schijf evenveel stukken kunt slaan, mag je kiezen. Dus: damslag gaat niet voor!
+10. Pas na het slaan mag je de geslagen stukken van het bord pakken.
+11. Tijdens het slaan mag je niet twee keer over hetzelfde stuk. Wel twee keer over hetzelfde lege veld.
+12. Aanraken is zetten: als je een dam of schijf aanraakt waar je een reglementaire zet mee kunt doen, dan moet je met dát stuk een zet doen.
+13. Wie geen zet meer kan doen, heeft de partij verloren.
+14. Als niemand meer kan winnen, dan is het remise (gelijkspel). Let op: het kan ook remise zijn als jij en je tegenstander niet hetzelfde aantal stukken hebben!
+
