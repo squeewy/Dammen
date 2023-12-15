@@ -1,4 +1,4 @@
-// using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -26,10 +26,10 @@ public class S : MonoBehaviour
                 else C1.enabled = true;
                 if (i < (n / 2)) Ci.color = Color.red;
                 else Ci.color = Color.white;
-                
+
                 g[i, j] = Instantiate(D);
                 g[i, j].transform.SetParent(transform.Find("Panel1"));
-                g[i, j].transform.localPosition = new Vector 3(left, top);
+                g[i, j].transform.localPosition = new Vector3(left, top);
                 g[i, j].transform.name = i + "&" + j;
                 left += size.x;
             }
