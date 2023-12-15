@@ -22,7 +22,8 @@ public class S : MonoBehaviour
             for (int j = 0; j < n; j++)
             {
                 drt.color = colors[(((j % 2) == 0) ? 0 : 1)];
-                g[i, j] = instantiate(D);
+                if (i == (n / 2) - 1 || (n /2) || drt.color == colors.white) C1.enabled = false;
+                g[i, j] = Instantiate(D);
                 g[i, j].transform.SetParent(transform.Find("Panel1"));
                 g[i, j].transform.localPosition = new Vector 3(left, top);
                 g[i, j].transform.name = i + "&" + j;
