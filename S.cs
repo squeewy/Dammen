@@ -14,6 +14,7 @@ public class S : MonoBehaviour
         cs.y /= 2;
         float left = (cs.z - size.x) * -1, top = (cs.y - size.y);
         Color[] colors= new Color[] { color.white, colors.black};
+        Image drt = D.GetComponent<Image>(), Ci = D.transform.Find("C").GetComponent<Image>();
         for(int i = 0; i < n; i++)
         {
             if (i % 2 == 0 ){ colors[0] = colors.black; colors[1] = color.white;}
