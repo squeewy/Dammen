@@ -24,6 +24,9 @@ public class S : MonoBehaviour
                 drt.color = colors[(((j % 2) == 0) ? 0 : 1)];
                 if (i == (n / 2) - 1 || (n /2) || drt.color == Color.white) C1.enabled = false;
                 else C1.enabled = true;
+                if (i < (n / 2)) Ci.color = Color.red;
+                else Ci.color = Color.white;
+                
                 g[i, j] = Instantiate(D);
                 g[i, j].transform.SetParent(transform.Find("Panel1"));
                 g[i, j].transform.localPosition = new Vector 3(left, top);
